@@ -1,0 +1,1 @@
+My remote freemarker file.
